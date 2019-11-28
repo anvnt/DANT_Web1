@@ -1,0 +1,141 @@
+﻿@font-face {
+    font-family: Avo;
+    src: url(Fonts/SVN-Avo.ttf);
+}
+
+@font-face {
+    font-family: HelveticaRegular;
+    src: url('Fonts/SVN-Helvetica Neue Regular.ttf');
+}
+
+@font-face {
+    font-family: HelveticaHeavy;
+    src: url('Fonts/SVN-Helvetica Neue Heavy.ttf');
+}
+
+@font-face {
+    font-family: HelveticaLight;
+    src: url('Fonts/SVN-Helvetica Neue Light.ttf');
+}
+/*phần header*/
+#head {
+    margin: 0px; /*xóa margin*/
+    padding: 0px; /*xóa padding*/
+    /* height: 10%; */
+    width: 100%; /*độ rộng chiếm hết độ rộng của trang*/
+    background-color: #323232; /*nền đen*/
+    display: block;
+    position: fixed; /*giữ cố định ở đầu trang*/
+    align-items: center;
+    color: white;
+    font-family: HelveticaRegular;
+}
+
+    #head .logo {
+        position: fixed;
+        margin-top: -2.4em;
+        margin-left: -10em;
+        width: 7em;
+    }
+
+    #head ul {
+        list-style-type: none;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        padding-top: 0.1rem;
+    }
+
+        #head ul li {
+            Padding: 0.5rem 2rem;
+            display: inline-block;
+            width: auto;
+            min-width: fit-content;
+        }
+
+            #head ul li a {
+                color: white;
+                text-decoration: none;
+            }
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    font-family: Avo;
+    padding:10px; 
+}
+.grid-main{
+    background-color:#FF7F50;
+    padding:20px; 
+    font-size:30px; 
+    text-align:center; 
+}
+.grid-sidebar {
+    background-color: black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: left;
+}
+#TimKiem {
+    border: 1px solid lightgrey;
+    border-radius: 40px;
+}
+
+.containersidebar {
+    display: flex;
+    flex-basis: 1;
+}
+
+    .containersidebar .Hinh {
+        float: left;
+    }
+
+    .containersidebar .Chu {
+        color: #FF7F50;
+        float: left;
+    }
+
+.footer {
+    background-color: #FFFFFF;
+    width: 86vw;
+    height: 64vh;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+
+    .footer div {
+        flex-basis: 1;
+        flex-grow: 1;
+        justify-content: space-around;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .footer .qrcode {
+        width: 7vw;
+    }
+
+    .footer .logo {
+        width: 7em;
+    }
+
+    .footer .Hinh {
+        flex-direction: column;
+    }
+
+    .footer div .ggplay {
+        width: 10vw;
+    }
+
+    .footer div .appstore {
+        width: 8vw;
+    }
+
+    .footer p {
+        font-family: HelveticaHeavy;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }

@@ -1,0 +1,67 @@
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\ApplicationInsights.config
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\roslyn\csc.exe
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\roslyn\System.Collections.Immutable.dll
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\roslyn\vbc.exe
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\roslyn\VBCSCompiler.exe
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\roslyn\VBCSCompiler.exe.config
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\DantWeb.dll.config
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\DantWeb.dll
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\DantWeb.pdb
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\Microsoft.AI.Web.dll
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\Microsoft.AI.WindowsServer.dll
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\Microsoft.ApplicationInsights.dll
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\Microsoft.AI.Web.xml
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\Microsoft.AI.WindowsServer.xml
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\Microsoft.ApplicationInsights.xml
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\obj\Debug\DantWeb.csprojResolveAssemblyReference.cache
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\obj\Debug\DantWeb.dll
+c:\users\trieu's pc\documents\visual studio 2015\Projects\DantWeb\DantWeb\obj\Debug\DantWeb.pdb
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\ApplicationInsights.config
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\roslyn\csc.exe
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\roslyn\System.Collections.Immutable.dll
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\roslyn\System.Reflection.Metadata.dll
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\roslyn\vbc.exe
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\roslyn\VBCSCompiler.exe
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\roslyn\VBCSCompiler.exe.config
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\DantWeb.dll.config
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\DantWeb.dll
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\DantWeb.pdb
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\Microsoft.AI.Agent.Intercept.dll
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\Microsoft.AI.DependencyCollector.dll
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\Microsoft.AI.Web.dll
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\Microsoft.AI.WindowsServer.dll
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\Microsoft.ApplicationInsights.dll
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\Microsoft.AI.DependencyCollector.xml
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\Microsoft.AI.Web.xml
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\Microsoft.AI.WindowsServer.xml
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\Microsoft.ApplicationInsights.xml
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\obj\Debug\DantWeb.csprojAssemblyReference.cache
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\obj\Debug\DantWeb.csproj.CopyComplete
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\obj\Debug\DantWeb.dll
+F:\0. Semester 5\3. Business website designing and programming 1\DantWeb-20191124T043046Z-001\DantWeb\DantWeb\obj\Debug\DantWeb.pdb

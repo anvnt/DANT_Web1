@@ -1,0 +1,354 @@
+﻿@font-face {
+    font-family: Avo;
+    src: url(Fonts/SVN-Avo.ttf);
+}
+
+@font-face {
+    font-family: HelveticaRegular;
+    src: url('Fonts/SVN-Helvetica Neue Regular.ttf');
+}
+
+@font-face {
+    font-family: HelveticaHeavy;
+    src: url('Fonts/SVN-Helvetica Neue Heavy.ttf');
+}
+
+@font-face {
+    font-family: HelveticaLight;
+    src: url('Fonts/SVN-Helvetica Neue Light.ttf');
+}
+/*phần header*/
+#head {
+    margin: 0px; /*xóa margin*/
+    padding: 0px; /*xóa padding*/
+    /* height: 10%; */
+    width: 100%; /*độ rộng chiếm hết độ rộng của trang*/
+    background-color: #323232; /*nền đen*/
+    display: block;
+    position: fixed; /*giữ cố định ở đầu trang*/
+    align-items: center;
+    color: white;
+    font-family: HelveticaRegular;
+}
+
+    #head .logo {
+        position: fixed;
+        margin-top: -2.4em;
+        margin-left: -10em;
+        width: 7em;
+    }
+
+    #head ul {
+        list-style-type: none;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        padding-top: 0.1rem;
+    }
+
+        #head ul li {
+            Padding: 0.5rem 2rem;
+            display: inline-block;
+            width: auto;
+            min-width: fit-content;
+        }
+
+            #head ul li a {
+                color: white;
+                text-decoration: none;
+            }
+/*  #head ul li .flag{
+                width:3em;
+                padding:0px;
+                margin:0px;
+            }*/
+
+body {
+    margin: 0px;
+    font-family: HelveticaRegular;
+    font-size: 1em;
+    min-width: fit-content;
+}
+
+.coral {
+    color: #FF7F50;
+}
+/*DANT WEB - BUILDING WEBSITES*/
+.flex-container1 {
+    padding-top: 2%;
+    height: 98.5vh;
+    width: 98.7vw;
+    display: flex;
+    flex-wrap: nowrap;
+    background-image: url(image/DANTWEBBackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-direction: column;
+    justify-content: center;
+    font-family: HelveticaHeavy;
+}
+
+    .flex-container1 > div {
+        text-align: center;
+        line-height: 50px;
+        font-size: 60px;
+        margin: 2%;
+    }
+
+    .flex-container1 .dungthu {
+        text-align: center;
+        align-self: center;
+        width: 15%;
+        padding: 0.5% 1% 1%;
+        margin-top: 15vh;
+        background-color: #FF7F50;
+        border-radius: 60px;
+        color: white;
+        font-size: 20px;
+        font-family: HelveticaRegular;
+        text-decoration: none;
+        min-width: max-content;
+    }
+
+    .flex-container1 a {
+        text-decoration: none;
+    }
+/*Tất cả những gì bạn cần để thiết kế website kinh doanh vượt trội*/
+.flex-container2 {
+    padding-top: 2%;
+    height: 98.5vh;
+    width: 98.7vw;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    background-color: #323232;
+}
+
+    .flex-container2 > div {
+        align-self: center;
+        vertical-align: middle;
+    }
+
+    .flex-container2 .Chu {
+        width: 40vw;
+        margin-left: 7vw;
+    }
+
+    .flex-container2 .Hinh {
+        padding-right: 2vw;
+        margin-left: 5vw;
+        align-self: center;
+    }
+/*Sở hữu website chuyên nghiệp chưa bao giờ dễ dàng đến thế.*/
+.flex-container3 {
+    padding-top: 20vh;
+    height: 98.5vh;
+    width: 98.7vw;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    background-color: #FF7F50;
+}
+
+    .flex-container3 > div {
+        flex-basis: 50%;
+        text-align: center;
+    }
+
+    .flex-container3 .Chu {
+        align-self: center;
+        width: 100%;
+        padding-right: 7%;
+        line-height: 1.6;
+        flex-direction: column;
+        font-size: 35px;
+        color: black;
+        font-weight: bold;
+        text-align: center;
+        flex-basis: 50vw;
+        flex-grow: 1;
+    }
+
+    .flex-container3 div .Hinh {
+        flex-basis: 70vw;
+        flex-grow: 1;
+    }
+
+    .flex-container3 img {
+        width: 90%;
+        padding-top: 15vh;
+        padding-left: 3vw;
+        padding-right: 3vw;
+    }
+
+    .flex-container3 table {
+        margin: 7px;
+    }
+
+        .flex-container3 table th {
+            text-align: center;
+            font-size: 25px;
+        }
+
+        .flex-container3 table td {
+            color: white;
+            font-size: 20px;
+            vertical-align: top;
+            text-align: justify;
+            padding: 0px 1em;
+            line-height: 1.6;
+            font-weight: normal;
+        }
+
+/*Tại sao bạn nên sử dụng DANTWeb?*/
+.flex-container4 {
+    padding-top: 2%;
+    height: 98.5vh;
+    width: 98.7vw;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    background-color: #323232;
+}
+
+    .flex-container4 > div {
+        align-self: center;
+        vertical-align: middle;
+    }
+
+    .flex-container4 .Chu {
+        margin-left: 7vw;
+        width: 70%;
+        line-height: 1.6;
+        flex-grow: 1;
+        flex-basis: 50vw;
+    }
+
+    .flex-container4 div img {
+        width: 80%;
+        padding-left: 4em;
+        padding-right: 3em;
+    }
+
+    .flex-container4 div .img {
+        flex-grow: 1;
+        flex-basis: 50vw;
+        text-align: center;
+    }
+
+    .flex-container4 a {
+        color: #FF7F50;
+    }
+/*HƠN 1000 KHÁCH HÀNG ĐÃ TIN TƯỞNG*/
+.flex-container5 {
+    padding-top: 2%;
+    height: 60vh;
+    width: 98.7vw;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    background-color: #323232;
+}
+
+    .flex-container5 > div {
+        align-self: center;
+        vertical-align: middle;
+        color: white;
+        font-weight: bold;
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .flex-container5 div img {
+        margin-top: -0.5em;
+        width: 7em;
+    }
+/*Hãy cùng hàng ngàn người tạo ra những trang web ấn tượng từ DANTWeb*/
+.flex-container6 {
+    padding-top: 4vh;
+    height: 20vh;
+    width: 98.7vw;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    background-color: #FF7F50;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+}
+
+    .flex-container6 > div {
+        /* flex-basis: 50%;*/
+        text-align: center;
+    }
+
+    .flex-container6 .Chu {
+        line-height: 1.6;
+        font-size: 30px;
+        color: white;
+        text-align: center;
+        flex-shrink: 1;
+    }
+
+
+    .flex-container6 .dungthu {
+        width: 15%;
+        padding: 0.5% 1% 1%;
+        align-items: center;
+        align-self: center;
+        text-align: center;
+        vertical-align: middle;
+        margin-top: 4vh;
+        margin-bottom: 4vh;
+        background-color: white;
+        border-radius: 60px;
+        color: #FF7F50;
+        font-size: 20px;
+        flex-shrink: 1;
+        min-width: fit-content;
+    }
+
+.footer {
+    background-color: #FFFFFF;
+    height: 64vh;
+    width: 98.7vw;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+
+    .footer div {
+        flex-basis: 1;
+        flex-grow: 1;
+        justify-content: space-around;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .footer .qrcode {
+        width: 7vw;
+    }
+
+    .footer .logo {
+        width: 7em;
+    }
+
+    .footer .Hinh {
+        flex-direction: column;
+    }
+
+    .footer div .ggplay {
+        width: 10vw;
+    }
+
+    .footer div .appstore {
+        width: 8vw;
+    }
+
+    .footer p {
+        font-family: HelveticaHeavy;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
