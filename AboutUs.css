@@ -1,0 +1,214 @@
+﻿@font-face {
+    font-family: Avo;
+    src: url(Fonts/SVN-Avo.ttf);
+}
+
+@font-face {
+    font-family: HelveticaRegular;
+    src: url('Fonts/SVN-Helvetica Neue Regular.ttf');
+}
+
+@font-face {
+    font-family: HelveticaHeavy;
+    src: url('Fonts/SVN-Helvetica Neue Heavy.ttf');
+}
+
+@font-face {
+    font-family: HelveticaLight;
+    src: url('Fonts/SVN-Helvetica Neue Light.ttf');
+}
+
+p {
+    margin: 0.5em 0em;
+    font-family: Avo;
+}
+
+.container1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 95vh;
+    width: 98.7vw;
+    padding-top: 3vh;
+    flex-direction: column;
+    min-width: 98.7vw;
+}
+
+    .container1 p {
+        padding-left: 20vw;
+        padding-right: 20vw;
+        font-size: 22px;
+    }
+
+.container2 {
+    display: flex;
+    text-align: left;
+    height: 95vh;
+    width: 98.7vw;
+    padding-top: 3vh;
+}
+
+    .container2 .Chu {
+        font-size: 20px;
+        width: 55vw;
+        height: 25rem;
+        background: rgb(255,127,80);
+        background: linear-gradient(90deg, rgba(255,127,80,1) 0%, rgba(255,127,80,0.3701855742296919) 100%);
+        justify-content: center;
+        vertical-align: middle;
+        margin-left: 6vw;
+        padding-bottom: 6vh;
+        padding-left: 4em;
+        padding-top: 6vh;
+    }
+
+        .container2 .Chu p {
+            padding-right: 8em;
+        }
+
+    .container2 img {
+        justify-content: center;
+        width: 30vw;
+        left: -10vw;
+        padding-top: 10vh;
+        position: relative;
+    }
+
+.container3 {
+    display: flex;
+    text-align: left;
+    height: 95vh;
+    width: 98.7vw;
+    padding-top: 3vh;
+}
+
+    .container3 .Chu {
+        font-size: 20px;
+        width: 55vw;
+        height: 25rem;
+        background: rgb(172,171,171);
+        background: linear-gradient(90deg, rgba(172,171,171,0.5550595238095238) 0%, rgba(252,252,252,0.7035189075630253) 100%);
+        justify-content: center;
+        vertical-align: middle;
+        margin-left: 6vw;
+        padding-bottom: 6vh;
+        padding-left: 4em;
+        padding-top: 6vh;
+    }
+
+        .container3 .Chu p {
+            padding-right: 10em;
+        }
+
+    .container3 img {
+        justify-content: center;
+        width: 35vw;
+        left: -7vw;
+        padding-top: 10vh;
+        position: relative;
+    }
+
+.container4 {
+    display: flex;
+    text-align: left;
+    height: 95vh;
+    width: 98.7vw;
+    padding-top: 3vh;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    background: rgb(252,252,252);
+    background: linear-gradient(90deg, rgba(252,252,252,1) 0%, rgba(255,127,80,0.4766281512605042) 100%);
+}
+
+    .container4 .Chu {
+        font-size: 20px;
+        width: 55vw;
+        margin-left: 6vw;
+    }
+
+        .container4 .Chu p {
+        }
+
+    .container4 img {
+        padding-left: 7vw;
+        width: 25vw;
+        left: 7vw;
+    }
+/*Bạn muốn biết gì về DANT?*/
+.container5 {
+    font-family: Avo;
+    display: flex;
+    text-align: center;
+    height: 10vh;
+    width: 98.7vw;
+    padding-top: 7vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.container6 {
+    display: flex;
+    text-align: left;
+    margin-top:5vh; 
+    margin-bottom:0vh; 
+    margin-left: 7em;
+    margin-right: 7em;
+    height: 43vh;
+    width: 82vw;
+    flex-direction: row;
+    justify-content: space-evenly;
+    vertical-align: middle;
+    flex-basis: 1;
+}
+    .container6 div {
+        margin-left: 1em;
+        margin-right: 1em;
+        padding-left: 1em;
+        padding-right: 5em;
+        flex-grow: 1;
+        flex-shrink: 1;
+        flex-wrap: nowrap;
+        border: 1px solid rgb(255,127,80);
+        background-color: #E8E8E8;
+        height: 30vh;
+        width: 20vw;
+    }
+.container7 {
+    padding-top: 4vh;
+    height: 20vh;
+    width: 98.7vw;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+}
+  .container7  .dungthu {
+        width: 15%;
+        padding: 0.5% 1% 1%;
+        text-align: center;
+        vertical-align: middle;
+        margin-top: 4vh;
+        margin-bottom: 8vh;
+        background-color: #FF7F50;
+        border-radius: 60px;
+        color: white;
+        font-size: 20px;
+        flex-shrink: 1;
+        min-width: fit-content;
+        transition: all 0.2s ease-in-out;
+        box-shadow: 2px 5px 5px #000;
+    }
+.dungthu:hover{
+    background:#F5865D;
+    transition: 0.2s;
+}
+body {
+    flex-wrap:nowrap;
+}
